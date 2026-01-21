@@ -1,0 +1,132 @@
+# Context API Authentication App
+
+A React application demonstrating authentication state management using **React Context API**, built with **Vite** for fast development and bundling.
+
+---
+
+## 🚀 Features
+
+* Global authentication state using React Context API
+* Clean and modular component structure
+* Fast development environment with Vite
+* ESLint configured for code quality
+
+---
+
+## 🛠 Tech Stack
+
+* **React**
+* **Vite**
+* **JavaScript (ES6+)**
+* **Context API**
+* **CSS**
+
+---
+
+## 📁 Project Structure
+
+```
+contextApii/
+├── public/
+│   └── vite.svg
+├── src/
+│   ├── assets/
+│   │   └── react.svg
+│   ├── component/
+│   │   └── Navbar.jsx
+│   ├── context/
+│   │   └── AuthenticationContext.jsx
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── index.css
+├── index.html
+├── package.json
+├── vite.config.js
+└── eslint.config.js
+```
+
+---
+
+## ⚙️ Installation & Setup
+
+1. **Clone the repository**
+
+   ```bash
+   git clone <your-repo-url>
+   ```
+
+2. **Navigate to the project directory**
+
+   ```bash
+   cd contextApii
+   ```
+
+3. **Install dependencies**
+
+   ```bash
+   npm install
+   ```
+
+4. **Start the development server**
+
+   ```bash
+   npm run dev
+   ```
+
+The app will run at:
+
+```
+http://localhost:5173
+```
+
+---
+
+## ▶️ Usage
+
+* Authentication state is managed globally using `AuthenticationContext`
+* Components can access auth data using `useContext`
+* Navbar reacts to authentication state changes
+
+---
+
+## 🖼 Screenshots
+
+**Monitor**
+
+![Monitor](./public/images/Monitor.png)
+
+**Laptop**
+
+![Laptop](./public/images/Laptop.png)
+
+**Mobile**
+
+![Laptop](./public/images/Mobile.png)
+
+![Laptop](./public/images/MobileExtented.png)
+
+---
+
+## 🌐 Live Preview
+
+*Add your deployed project link here:*
+
+```
+https://your-live-site-link.com
+```
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.
+
+---
+
+### 👨‍💻 Author
+
+Your Name
+
+---
+
+If you find this project helpful, feel free to ⭐ the repository!
