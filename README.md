@@ -52,7 +52,7 @@ contextApii/
 1. **Clone the repository**
 
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/AljuSabu/context_api
    ```
 
 2. **Navigate to the project directory**
@@ -109,11 +109,7 @@ http://localhost:5173
 
 ## 🌐 Live Preview
 
-*Add your deployed project link here:*
-
-```
-https://your-live-site-link.com
-```
+👉 [View Live App](https://al-context-api.netlify.app/)
 
 ---
 
@@ -123,10 +119,8 @@ This project is licensed under the **MIT License**.
 
 ---
 
-### 👨‍💻 Author
+## ✨ Author
 
-Your Name
+Built with ❤️ using React and Vite.
 
 ---
-
-If you find this project helpful, feel free to ⭐ the repository!
