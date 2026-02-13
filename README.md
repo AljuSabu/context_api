@@ -23,6 +23,12 @@ A React application demonstrating authentication state management using **React 
 
 ---
 
+## 🌐 Live Preview
+
+👉 [View Live App](https://al-context-api.netlify.app/)
+
+---
+
 ## 📁 Project Structure
 
 ```
@@ -104,12 +110,6 @@ http://localhost:5173
 ![Laptop](./public/images/Mobile.png)
 
 ![Laptop](./public/images/MobileExtented.png)
-
----
-
-## 🌐 Live Preview
-
-👉 [View Live App](https://al-context-api.netlify.app/)
 
 ---
 
